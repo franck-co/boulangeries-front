@@ -1,12 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+//import './index.css';
+import {App} from 'modules/app/app.component';
+import reportWebVitals from 'other/reportWebVitals';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import { StoreProvider } from 'easy-peasy';
+import { store } from 'store';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <StoreProvider store={store}>
+      <App />
+    </StoreProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );
