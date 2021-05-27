@@ -1,0 +1,13 @@
+{
+    "search.exclude": {
+        "**/build": true,
+        "**/production-build": true,
+        "**/staging-build": true,
+        "yarn.lock": true,
+        "yarn-error.log":true,
+        ".eslintcache": true,
+        ".yarn":true,
+    },
+
+    "npm-scripts.showStartNotification": false,
+}
