@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/%7Brepo-name%7D/static/js/main.5ffc20a0.chunk.js",
+    "main.js.map": "/%7Brepo-name%7D/static/js/main.5ffc20a0.chunk.js.map",
+    "runtime-main.js": "/%7Brepo-name%7D/static/js/runtime-main.3144d9be.js",
+    "runtime-main.js.map": "/%7Brepo-name%7D/static/js/runtime-main.3144d9be.js.map",
+    "static/js/2.7f9a79cf.chunk.js": "/%7Brepo-name%7D/static/js/2.7f9a79cf.chunk.js",
+    "static/js/2.7f9a79cf.chunk.js.map": "/%7Brepo-name%7D/static/js/2.7f9a79cf.chunk.js.map",
+    "static/js/3.165ada98.chunk.js": "/%7Brepo-name%7D/static/js/3.165ada98.chunk.js",
+    "static/js/3.165ada98.chunk.js.map": "/%7Brepo-name%7D/static/js/3.165ada98.chunk.js.map",
+    "static/js/4.09843b9c.chunk.js": "/%7Brepo-name%7D/static/js/4.09843b9c.chunk.js",
+    "static/js/4.09843b9c.chunk.js.map": "/%7Brepo-name%7D/static/js/4.09843b9c.chunk.js.map",
+    "static/js/5.95d38e27.chunk.js": "/%7Brepo-name%7D/static/js/5.95d38e27.chunk.js",
+    "static/js/5.95d38e27.chunk.js.map": "/%7Brepo-name%7D/static/js/5.95d38e27.chunk.js.map",
+    "static/js/6.dc01ea33.chunk.js": "/%7Brepo-name%7D/static/js/6.dc01ea33.chunk.js",
+    "static/js/6.dc01ea33.chunk.js.map": "/%7Brepo-name%7D/static/js/6.dc01ea33.chunk.js.map",
+    "index.html": "/%7Brepo-name%7D/index.html",
+    "static/js/2.7f9a79cf.chunk.js.LICENSE.txt": "/%7Brepo-name%7D/static/js/2.7f9a79cf.chunk.js.LICENSE.txt",
+    "static/js/3.165ada98.chunk.js.LICENSE.txt": "/%7Brepo-name%7D/static/js/3.165ada98.chunk.js.LICENSE.txt",
+    "static/js/4.09843b9c.chunk.js.LICENSE.txt": "/%7Brepo-name%7D/static/js/4.09843b9c.chunk.js.LICENSE.txt",
+    "static/js/5.95d38e27.chunk.js.LICENSE.txt": "/%7Brepo-name%7D/static/js/5.95d38e27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3144d9be.js",
+    "static/js/2.7f9a79cf.chunk.js",
+    "static/js/main.5ffc20a0.chunk.js"
+  ]
+}
